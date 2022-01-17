@@ -1,4 +1,4 @@
-package mocaenv
+package menv
 
 import "os"
 
